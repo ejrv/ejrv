@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Dan.
+
+- 📫 How to reach me:
+  Discord: kennelis#2738
+- 😄 Pronouns: He/Him
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
