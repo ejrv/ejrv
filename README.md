@@ -3,6 +3,8 @@
 - 📫 How to reach me:
   Discord: kennelis#2738
 - 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Math and You Know, Dealing With High School Books.
+- ⚡ Fun fact: Im Only 14 Years Old, Just... For Knowledge.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
