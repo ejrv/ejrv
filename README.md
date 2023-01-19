@@ -2,7 +2,7 @@
 
 - 📫 How to reach me:
   Discord: Danwe#2738
-  Matrix: @ejrv:matrix.org
+  - Matrix: @ejrv:matrix.org
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Math and You Know, Dealing With High School Books.
 - ⚡ Fun fact: Im Only 14 Years Old, Just... For Knowledge.
