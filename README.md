@@ -5,7 +5,7 @@
   - Matrix: @ejrv:matrix.org
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Math and You Know, Dealing With High School Books.
-- ⚡ Fun fact: Im Only 14 Years Old, Just... For Knowledge.
+- ⚡ Fun fact: Im 14, So don't harass me for my trash sources.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
