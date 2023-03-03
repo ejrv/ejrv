@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Buy Me a Coffin](https://www.buymeacoffee.com/ejrv)
