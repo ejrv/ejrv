@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Daniel, Knownly [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
 
 - 📫 How to reach me:
+  
   Discord: @ejrv - (Without any #)
-  - Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
+
+  Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 - 😄 Pronouns: He/Him
 - 🌱 We are all in summer so no homeworks yet.
 - ⚡ Fun fact: Im almost 15, So don't harass me for my bad code/english.
