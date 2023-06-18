@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Dan, Knownly [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
+### Hi there 👋 I'm Daniel, Knownly [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
 
 - 📫 How to reach me:
-  Discord: ejrv#2738
-  - Matrix: @ejrv:matrix.org
+  Discord: @ejrv - (Without any #)
+  - Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Math and You Know, Dealing With High School Books.
-- ⚡ Fun fact: Im 14.01, So don't harass me for my trash sources.
+- 🌱 We are all in summer so no homeworks yet.
+- ⚡ Fun fact: Im almost 15, So don't harass me for my bad code/english.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
