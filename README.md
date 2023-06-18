@@ -4,6 +4,13 @@
   
   Discord: @ejrv - (Without any #)
 
+  Telegram: @ejrvw
+
+  Instagram: @danpkg
+
+  Email: cdbac@proton.me
+
+
   Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 - 😄 Pronouns: He/Him
 - 🌱 We are all in summer so no homeworks yet.
