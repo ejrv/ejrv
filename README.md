@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <a href="https://www.buymeacoffee.com/ejrv"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffin&emoji=⚰️&slug=ejrv&button_colour=408080&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
-I Don't feel good for you guys paying ❤️ But it's your opinion.
+I Don't feel good for you guys paying ❤️ But it's your opinion; Donating helps my company to grow faster, Thanks!
