@@ -2,7 +2,7 @@
 
 - 📫 How to reach me:
   
-  Discord: @ejrv - (Without any #)
+  No more Discord, Moved to Telegram.
 
   Telegram: @ejrvw
 
