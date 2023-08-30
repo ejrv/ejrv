@@ -14,7 +14,7 @@
   Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 - 😄 Pronouns: He/Him
 - 🌱 We are all in summer so no homeworks yet.
-- ⚡ Fun fact: Im almost 15, So don't harass me for my bad code/english.
+- ⚡ Fun fact: Im 15, So don't harass me for my bad code/english.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
