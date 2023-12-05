@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Daniel, Knownly [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
 
+- Merry Christmas Everyone!
+
 - 📫 How to reach me:
   
   No more Discord, Moved to Telegram.
