@@ -8,7 +8,7 @@
 
   Telegram: @ejrvw
 
-  Instagram: @danpkg and @artsofcultureofficial
+  Instagram: @danpkg
 
   Email: karmansoftware@yahoo.com  &  cdbac@proton.me
 
