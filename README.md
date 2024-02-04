@@ -14,8 +14,8 @@
 
 
   Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
-- 😄 Pronouns: He/Him
-- 🌱 We are all in summer so no homeworks yet.
+
+- 🌱 Busy, My days are filled with Homeworks and Exams.
 - ⚡ Fun fact: Im 15, So don't harass me for my bad code/english.
 
 <!--
