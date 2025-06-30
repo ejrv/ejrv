@@ -16,7 +16,7 @@
   Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 
 - 🌱 Busy, My days are filled with Homeworks and Exams.
-- ⚡ Fun fact: Im 15, So don't harass me for my bad code/english.
+- ⚡ Fun fact: Im 16, So don't harass me for my bad code/english.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <a href="https://www.buymeacoffee.com/ejrv"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffin&emoji=⚰️&slug=ejrv&button_colour=408080&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
-I Don't feel good for you guys paying ❤️ But it's your opinion; Donating helps my company to grow faster, Thanks!
+I Don't feel good for you guys paying me ❤️ But it's your own opinion; Donating helps my projects to get better and more improven each year, Thanks!
