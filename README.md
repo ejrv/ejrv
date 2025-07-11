@@ -1,22 +1,22 @@
-### Hi there 👋 I'm Daniel, Knownly [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
+### Hello there 👋 I'm Daniel, currently known as [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
 
-- Merry Christmas Everyone!
+
+- Update of July 11th 2025: I've made a new website! check it out: https://eedition.org/
 
 - 📫 How to reach me:
-  
-  No more Discord, Moved to Telegram.
+
 
   Telegram: @ejrvw
 
   Instagram: @danpkg
 
-  Email: karmansoftware@yahoo.com  &  cdbac@proton.me
+  Email: cdbac@proton.me
 
 
   Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
 
 - 🌱 Busy, My days are filled with Homeworks and Exams.
-- ⚡ Fun fact: Im 16, So don't harass me for my bad code/english.
+- ⚡ Fact: Im 16, So don't expect anything really great from my code.
 
 <!--
 **kennelis/kennelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<a href="https://www.buymeacoffee.com/ejrv"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffin&emoji=⚰️&slug=ejrv&button_colour=408080&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-
-I Don't feel good for you guys paying me ❤️ But it's your own opinion; Donating helps my projects to get better and more improven each year, Thanks!
