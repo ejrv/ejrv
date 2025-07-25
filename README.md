@@ -6,9 +6,9 @@
 - 📫 How to reach me:
 
 
-  Telegram: @ejrvw
+  Telegram: @mo3ene - @ejrvw
 
-  Instagram: @danpkg
+  Instagram: @dv9700_
 
   Email: cdbac@proton.me
 
