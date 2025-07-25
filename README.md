@@ -13,7 +13,7 @@
   Email: cdbac@proton.me
 
 
-  Matrix: @ejrv:matrix.org (I use it for emergency moments when my VPN doesn't works)
+  Twake: soon (I'll use it for emergency moments when my VPN wont work, same with my email.)
 
 - 🌱 Busy, My days are filled with Homeworks and Exams.
 - ⚡ Fact: Im 16, So don't expect anything really great from my code.
