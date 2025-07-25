@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 
 
-  Telegram: @mo3ene - @ejrvw
+  Telegram: @moe3n - @ejrvw
 
   Instagram: @dv9700_
 
