@@ -6,17 +6,16 @@
 - 📫 How to reach me:
 
 
-  Telegram: @moe3n - @ejrvw
+  Telegram: @atmobin
 
   Instagram: @dv9700_
 
   Email: cdbac@proton.me
 
 
-  Twake: soon (I'll use it for emergency moments when my VPN wont work, same with my email.)
 
 - 🌱 Busy, My days are filled with Homeworks and Exams.
-- ⚡ Fact: Im 16, So don't expect anything really great from my code.
+- ⚡ Fact: Im 17, So don't expect anything really great from my code.
 
 
 <a
