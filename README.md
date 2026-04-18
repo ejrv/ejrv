@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Daniel, currently known as [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
+### Hello there 👋 I'm Mobin, currently known as [![Github Badge](https://img.shields.io/badge/-ejrv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ejrv/)](https://www.github.com/ejrv/)
 
 
 - Update of July 11th 2025: I've made a new website! check it out: https://eedition.org/
